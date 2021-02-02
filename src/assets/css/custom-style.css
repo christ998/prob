@@ -1,0 +1,20 @@
+.custom-icon {
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.custom-icon-delete:hover {
+    color: #DC3545;
+}
+
+.custom-icon-update:hover {
+    color: #5E72E4;
+}
+
+.custom-icon-create:hover {
+    color: #28A745;;
+}
+
+.custom-icon-list:hover {
+    color: #FFC107;
+}
