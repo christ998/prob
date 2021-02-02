@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/prob/static/css/main.2253aaac.chunk.css",
+    "main.js": "/prob/static/js/main.50a0b0a1.chunk.js",
+    "main.js.map": "/prob/static/js/main.50a0b0a1.chunk.js.map",
+    "runtime-main.js": "/prob/static/js/runtime-main.98e38be8.js",
+    "runtime-main.js.map": "/prob/static/js/runtime-main.98e38be8.js.map",
+    "static/css/2.fe0ee806.chunk.css": "/prob/static/css/2.fe0ee806.chunk.css",
+    "static/js/2.ad7b0b16.chunk.js": "/prob/static/js/2.ad7b0b16.chunk.js",
+    "static/js/2.ad7b0b16.chunk.js.map": "/prob/static/js/2.ad7b0b16.chunk.js.map",
+    "index.html": "/prob/index.html",
+    "precache-manifest.2c9a413d981a77acc7128cdf665863a9.js": "/prob/precache-manifest.2c9a413d981a77acc7128cdf665863a9.js",
+    "service-worker.js": "/prob/service-worker.js",
+    "static/css/2.fe0ee806.chunk.css.map": "/prob/static/css/2.fe0ee806.chunk.css.map",
+    "static/css/main.2253aaac.chunk.css.map": "/prob/static/css/main.2253aaac.chunk.css.map",
+    "static/js/2.ad7b0b16.chunk.js.LICENSE.txt": "/prob/static/js/2.ad7b0b16.chunk.js.LICENSE.txt",
+    "static/js/main.50a0b0a1.chunk.js.LICENSE.txt": "/prob/static/js/main.50a0b0a1.chunk.js.LICENSE.txt",
+    "static/media/argon-react.png": "/prob/static/media/argon-react.f38ddea9.png",
+    "static/media/all.min.css": "/prob/static/media/fa-solid-900.fb493903.woff2",
+    "static/media/github.svg": "/prob/static/media/github.2e257125.svg",
+    "static/media/google.svg": "/prob/static/media/google.08ea438e.svg",
+    "static/media/image-placeholder.png": "/prob/static/media/image-placeholder.6a9d678d.png",
+    "static/media/nucleo.css": "/prob/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/tego5.svg": "/prob/static/media/tego5.0b6dff70.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e38be8.js",
+    "static/css/2.fe0ee806.chunk.css",
+    "static/js/2.ad7b0b16.chunk.js",
+    "static/css/main.2253aaac.chunk.css",
+    "static/js/main.50a0b0a1.chunk.js"
+  ]
+}
